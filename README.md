@@ -1,0 +1,2 @@
+# HotelPalace
+Site Hotel Palace
